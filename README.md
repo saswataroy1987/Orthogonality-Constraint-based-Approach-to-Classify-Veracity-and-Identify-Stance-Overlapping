@@ -21,10 +21,10 @@ Type the following command to create the environment "man" which contains all th
 ## Details
 
 ### Details of SeNoCe folder
- * The main model is kept inside the folder "SeNoCe". Neural network model is written in "rumour_Loss.py".
- * Execute "trainTestModel_Fast.py" file inside this folder.
+ * The main model is kept inside the folder "SeNoCe". Neural network model is written in "neural_net.py".
+ * Execute "main_model.py" file inside this folder to initiate the process.
  * Results and required files will be saved under "repo_Fast" folder.
- * Then Execute "resCal.py" file to get the Accuracy and Macro F score.
+ * Then Execute "calculate_acc_marcroF.py" file to get the Accuracy and Macro F score.
  * Use hyperopt to tune the hyperparameters of the provided model.
 
 ### Details of SeNoCe~(A-FeAg) folder
