@@ -1,5 +1,6 @@
 # Towards an Orthogonality Constraint-based Feature Partitioning Approach to Classify Veracity and Identify Stance Overlapping of Rumors on Twitter
 ## Authors : __Saswata Roy, Manish Bhanu, Sourav Dandapat, Joydeep Chandra__
+###### Paper DOI is found at https://doi.org/10.1016/j.eswa.2022.118175
 ## Introduction
 SeNoCe is an efficient Segregated Non-overlapping and Collectively exhaustive DNN model which mitigates the effects of poor utilization of resources and enhances the model performance without the aid of auxiliary information or tasks which incur good manual efforts and costs.
 
