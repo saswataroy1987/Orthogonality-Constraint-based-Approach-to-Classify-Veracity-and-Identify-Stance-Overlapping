@@ -4,6 +4,22 @@
 ## Introduction
 SeNoCe is an efficient Segregated Non-overlapping and Collectively exhaustive DNN model which mitigates the effects of poor utilization of resources and enhances the model performance without the aid of auxiliary information or tasks which incur good manual efforts and costs.
 
+
+## If you use the code, we appreciate it if you cite our paper
+~~~~
+@article{roy2022towards,
+  title={Towards an orthogonality constraint-based feature partitioning approach to classify veracity and identify stance overlapping of rumors on twitter},
+  author={Roy, Saswata and Bhanu, Manish and Dandapat, Sourav and Chandra, Joydeep},
+  journal={Expert Systems with Applications},
+  pages={118175},
+  year={2022},
+  publisher={Elsevier}
+}
+
+~~~~
+
+
+
 ## Installation
 
 ### Prerequisite
